@@ -1,0 +1,35 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+m1                   -           1252 RVT_1                PF00078.33   200   1.2e-15   46.3   0.1   1   2   2.6e-05   3.3e-05   12.2   0.0    64   127   783   850   770   874 0.80 -
+m1                   -           1252 RVT_1                PF00078.33   200   1.2e-15   46.3   0.1   2   2   3.3e-11   4.2e-11   31.5   0.0    96   187   899  1011   875  1060 0.84 -
+m0                   -           1129 RVT_1                PF00078.33   200   1.1e-13   40.0   0.3   1   4   3.5e-05   4.3e-05   11.9   0.0    64   119   640   699   634   719 0.82 -
+m0                   -           1129 RVT_1                PF00078.33   200   1.1e-13   40.0   0.3   2   4   3.1e-05   3.9e-05   12.0   0.0    99   134   738   776   715   780 0.72 -
+m0                   -           1129 RVT_1                PF00078.33   200   1.1e-13   40.0   0.3   3   4   5.8e-05   7.3e-05   11.1   0.0   142   187   858   903   831   952 0.85 -
+m0                   -           1129 RVT_1                PF00078.33   200   1.1e-13   40.0   0.3   4   4      0.94       1.2   -2.6   0.0    18    40  1036  1059  1030  1092 0.69 -
+m3                   -           1888 RVT_1                PF00078.33   200   1.5e-12   36.2   0.4   1   3   6.3e-05   7.9e-05   11.0   0.0    64   119  1347  1406  1341  1426 0.82 -
+m3                   -           1888 RVT_1                PF00078.33   200   1.5e-12   36.2   0.4   2   3   5.7e-05   7.1e-05   11.1   0.0    99   134  1445  1483  1424  1487 0.71 -
+m3                   -           1888 RVT_1                PF00078.33   200   1.5e-12   36.2   0.4   3   3   0.00014   0.00017    9.9   0.0   144   187  1627  1670  1615  1719 0.86 -
+m2                   -            769 RVT_1                PF00078.33   200   1.2e-11   33.3   0.1   1   2     0.014     0.017    3.3   0.0    64    87   437   460   422   491 0.79 -
+m2                   -            769 RVT_1                PF00078.33   200   1.2e-11   33.3   0.1   2   2   1.2e-09   1.5e-09   26.4   0.0    95   187   527   654   504   702 0.84 -
+m3                   -           1888 TEN_TERT             PF11474.14   156   3.5e-07   19.0   0.0   1   1   1.5e-07   7.5e-07   17.9   0.0    86   151   161   226   146   230 0.87 -
+m0                   -           1129 Telomerase_RBD       PF12009.14   133   4.6e-37  115.6   1.8   1   1   1.2e-36   1.5e-36  114.0   1.8     1   131   336   486   336   488 0.91 -
+m1                   -           1252 Telomerase_RBD       PF12009.14   133     7e-37  115.0   1.6   1   1   1.5e-36   1.9e-36  113.7   1.6     1   125   472   609   472   613 0.91 -
+m2                   -            769 Telomerase_RBD       PF12009.14   133   2.2e-35  110.2   2.6   1   2   4.4e-18   5.5e-18   53.9   0.0     1    63    89   156    89   190 0.86 -
+m2                   -            769 Telomerase_RBD       PF12009.14   133   2.2e-35  110.2   2.6   2   2   1.9e-18   2.4e-18   55.0   1.2    67   131   238   302   217   304 0.89 -
+m3                   -           1888 Telomerase_RBD       PF12009.14   133   1.4e-34  107.6   2.6   1   2   1.4e-17   1.7e-17   52.3   0.0     1    63   921   988   921  1022 0.86 -
+m3                   -           1888 Telomerase_RBD       PF12009.14   133   1.4e-34  107.6   2.6   2   2   5.7e-18   7.1e-18   53.5   1.2    67   131  1070  1134  1049  1136 0.89 -
+m0                   -           1129 TERT_C               PF21399.3    130   1.5e-28   88.2   0.2   1   1   2.6e-28   3.2e-28   87.1   0.2     2   129   968  1094   967  1095 0.92 -
+m3                   -           1888 TERT_C               PF21399.3    130   6.7e-25   76.4   0.1   1   1   1.1e-24   1.4e-24   75.3   0.1     2   129  1735  1853  1734  1854 0.90 -
+m1                   -           1252 TERT_C               PF21399.3    130   6.5e-24   73.2   0.4   1   1   6.8e-23   8.5e-23   69.6   0.4     2   129  1076  1217  1075  1218 0.77 -
+m2                   -            769 TERT_C               PF21399.3    130   2.2e-14   42.4   1.2   1   1   3.9e-14   4.8e-14   41.2   1.2     2    50   719   767   718   769 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      data/processed/tert_phase2/hmm/tert_domains.hmm
+# Target file:     data/processed/tert_phase2/runs/Zygnema_circumcarinatum.models.faa
+# Option settings: hmmsearch --domtblout data/processed/tert_phase2/runs/Zygnema_circumcarinatum.domtbl -E 1 --domE 1 --cpu 9 data/processed/tert_phase2/hmm/tert_domains.hmm data/processed/tert_phase2/runs/Zygnema_circumcarinatum.models.faa 
+# Current dir:     /Users/krishnakumarsahu/Desktop/Algal_Telomere_DNA_Study/full_export/algal_telomere_study
+# Date:            Wed Oct  7 12:53:08 2026
+# [ok]

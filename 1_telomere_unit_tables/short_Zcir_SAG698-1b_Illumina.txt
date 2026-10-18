@@ -1,0 +1,11 @@
+# Zcir_SAG698-1b_Illumina: 857,863 reads; 1,455 with an array of >=4 T(1-9)AGGG units (1696 per million)
+T-length	reads_with_this_mode	per_million_reads	of_which_>=90%_pure	%_of_all_units
+T1	11	13	8	2.0
+T2	344	401	250	21.5
+T3	198	231	55	7.7
+T4	19	22	1	1.7
+T5	881	1027	632	65.9
+T6	2	2	0	1.1
+T7	0	0	0	0.0
+T8	0	0	0	0.0
+T9	0	0	0	0.0

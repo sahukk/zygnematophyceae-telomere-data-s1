@@ -1,0 +1,41 @@
+assembly	TERT_call	n_TERT_loci_models	busco_complete_pct	miniprot_pass1	miniprot_pass2	orf_scan
+Auxenochlorella_pyrenoidosa	Partial	1	91.5	pass1:CM105677.1:852139-1089251 [TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Breviolum_minutum	Complete	1	29.5	pass1:OZ285638.1:7695680-7699980 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Bryopsis_sp_KO2023	Complete	1	85.3	pass1:BSYQ01_9:2904736-2911307 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Chlorella_pyrenoidosa_DBH	Partial	1	92.2	pass1:GWHBKBB00000002:826706-1102898 [TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Chlorella_sorokiniana_NS4-2	Complete	1	90.7	pass1:GWHBKBA00000003:5815309-5895469 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Chloromonas_typhlos	Complete	1	86.0	pass1:CM172298.1:513117-536960 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Coccomyxa_elongata	Complete	1	91.5	pass1:CAXVQD010000002.1:1631391-1749752 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Cyanidiococcus_yangmingshanensis	Not detected	0	47.3	-	-	-
+Cyanidium_caldarium	Complete	0	47.3	-	-	ORF-scan: 1 TRBD ORF(s); orf12023 [RVT_1+TEN_TERT+Telomerase_RBD]
+Cyanophora_paradoxa	Not detected	0	81.4	-	-	-
+Effrenium_voratum	Complete	1	16.3	pass1:OZ319363.1:8689729-8735969 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Euglena_gracilis	Not detected	0	80.4	-	-	-
+Eutreptiella_sp	Partial	0		-	-	ORF-scan: 2 TRBD ORF(s)
+Freudenthalidium_endolithicum	Partial	1		pass1:OZ412183.1:20285197-20301102 [RVT_1+Telomerase_RBD]	-	ORF-scan: 2 TRBD ORF(s)
+Galdieria_yellowstonensis	Complete	1	84.5	pass1:JANCYU010000040.1:148737-152523 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 2 TRBD ORF(s)
+Gracilaria_vermiculophylla	Complete	1	75.2	-	pass2:CM135874.1:1590813-1696692 [RVT_1+TERT_C+Telomerase_RBD]	ORF-scan: 1 TRBD ORF(s)
+Isochrysis_galbana	Partial	0	86.8	-	-	ORF-scan: 1 TRBD ORF(s)
+Mesotaenium_endlicherianum	Complete	1	86.8	pass1:WELA01010214.1:137728-153874 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Nitzschia_inconspicua	Complete	2	87.6	pass1:JAGRRH010000006.1:1597674-1600503 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 2 TRBD ORF(s)
+Penium_margaritaceum	Partial	2		-	pass2:SZWC01002383.1:184197-225969 [RVT_1+Telomerase_RBD]	ORF-scan: 5 TRBD ORF(s)
+Phaeocystis_globosa	Not detected	0	80.6	-	-	-
+Picochlorum_sp_SENEW3	Complete	1	86.8	pass1:CP120463.1:783486-787532 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Polarella_glacialis	Partial	2		pass1:CAJNNV010033385.1:40535-45120 [RVT_1+Telomerase_RBD]	-	ORF-scan: 2 TRBD ORF(s)
+Porphyra_dioica	Not detected	0	51.9	-	-	-
+Porphyra_linearis	Partial	0	51.2	-	-	ORF-scan: 1 TRBD ORF(s)
+Prorocentrum_cordatum	Not detected	0	57.9	-	-	-
+Prymnesium_parvum	Partial	0	85.3	-	-	ORF-scan: 1 TRBD ORF(s)
+Rebecca_billardiae	Complete	0	82.2	-	-	ORF-scan: 1 TRBD ORF(s); orf355450 [RVT_1+TERT_C+Telomerase_RBD]
+Saccharina_japonica	Partial	1	53.5	pass1:CM102419.1:13796738-13814436 [TEN_TERT+Telomerase_RBD]	-	ORF-scan: 2 TRBD ORF(s)
+Saccharina_sculpera	Complete	1	54.3	pass1:CM125229.1:14545120-14646239 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Scenedesmus_obliquus_UTEX3031_hap1	Complete	1	88.4	pass1:CP126206.1:3771739-3789766 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Scenedesmus_obliquus_UTEX3031_hap2	Complete	1	88.4	pass1:CP126223.1:3463978-3578161 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Spirogloea_muscicola	Complete	3	94.6	pass1:WELB01000039.1:396786-478587 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 3 TRBD ORF(s)
+Spirogyra_pratensis	Partial	0	94.6	-	-	ORF-scan: 1 TRBD ORF(s)
+Symbiodinium_microadriaticum	Complete	1	43.4	pass1:CAJNJV010000976.1:3690-8219 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 2 TRBD ORF(s)
+Symbiodinium_pilosum	Not detected	0	15.5	-	-	-
+Symbiodinium_tridacnidarum	Complete	1	21.7	pass1:OZ257306.1:1871747-1876137 [RVT_1+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Ulva_compressa	Not detected	0	71.3	-	-	-
+Undaria_pinnatifida	Partial	1	77.5	pass1:JABAKD01_16:14925746-14959521 [TEN_TERT+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)
+Zygnema_circumcarinatum	Complete	1	93.8	pass1:CM074806.1:4760399-4783455 [RVT_1+TEN_TERT+TERT_C+Telomerase_RBD]	-	ORF-scan: 1 TRBD ORF(s)

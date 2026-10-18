@@ -1,0 +1,16 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+JBBHKE010000708.1    -         iter2b               -          cm        1      242    21895    21618      -    no    1 0.63   0.5   55.4   1.1e-11 !   Zygnema cylindricum isolate SAG 698-1a scaffold708_len251059_cov1_read100_maxK100, whole genome shotgun sequence
+JBBHKE010002294.1    -         iter2b               -          cm        1      242   169891   170107      +    no    1 0.44   0.0   23.6     0.027 ?   Zygnema cylindricum isolate SAG 698-1a scaffold2294_len212512_cov1_read100_maxK100, whole genome shotgun sequence
+JBBHKE010001372.1    -         iter2b               -          cm        1      242    98577    98822      +    no    1 0.40   0.0   16.1       4.5 ?   Zygnema cylindricum isolate SAG 698-1a scaffold1372_len163769_cov1_read100_maxK100, whole genome shotgun sequence
+JBBHKE010001395.1    -         iter2b               -          cm       69      147   396095   396199      +    no    1 0.36   0.0   15.7         6 ?   Zygnema cylindricum isolate SAG 698-1a scaffold1395_len826132_cov1_read100_maxK100, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.5 (Sep 2023)
+# Pipeline mode:   SEARCH
+# Query file:      iter2b.cm
+# Target file:     ../../../raw/ncbi/GCA_037447655.1_dir/ncbi_dataset/data/GCA_037447655.1/GCA_037447655.1_SAG698-1a_XF_1.0_genomic.fna
+# Option settings: /opt/homebrew/Caskroom/miniconda/base/envs/tr_infernal/bin/cmsearch --tblout Zcyl.tbl -E 10 --cpu 10 iter2b.cm ../../../raw/ncbi/GCA_037447655.1_dir/ncbi_dataset/data/GCA_037447655.1/GCA_037447655.1_SAG698-1a_XF_1.0_genomic.fna 
+# Current dir:     /Users/krishnakumarsahu/Desktop/Algal_Telomere_DNA_Study/full_export/algal_telomere_study/data/processed/tr_search/iter2b
+# Date:            Wed Oct 14 22:46:54 2026
+# [ok]

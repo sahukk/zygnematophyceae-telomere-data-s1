@@ -1,0 +1,215 @@
+IQ-TREE 3.1.2 built May  7 2026
+
+Input file name: 18S_alignment_trimmed.fasta
+Type of analysis: tree reconstruction
+Random seed number: 916383
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 42 sequences with 1779 nucleotide sites
+Number of constant sites: 561 (= 31.5346% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 561 (= 31.5346% of all sites)
+Number of parsimony informative sites: 922
+Number of distinct site patterns: 1162
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TIM2+F+R4
+
+Rate parameter R:
+
+  A-C: 0.7410
+  A-G: 1.7121
+  A-T: 0.7410
+  C-G: 1.0000
+  C-T: 3.7229
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2524
+  pi(C) = 0.2114
+  pi(G) = 0.2734
+  pi(T) = 0.2627
+
+Rate matrix Q:
+
+  A   -0.7542    0.1442    0.4309    0.1792
+  C    0.1721    -1.324    0.2517    0.9002
+  G    0.3977    0.1946   -0.8341    0.2418
+  T    0.1721    0.7244    0.2517    -1.148
+
+Model of rate heterogeneity: FreeRate with 4 categories
+Site proportion and rates:  (0.4583,0.07195) (0.3055,0.6299) (0.1287,1.943) (0.1075,4.879)
+
+ Category  Relative_rate  Proportion
+  1         0.07195        0.4583
+  2         0.6299         0.3055
+  3         1.943          0.1287
+  4         4.879          0.1075
+
+STARTING TREE
+-------------
+
+Log-likelihood of the tree: -23878.0181 (s.e. 485.9230)
+Unconstrained log-likelihood (without tree): -11144.0681
+Number of free parameters (#branches + #model parameters): 93
+Akaike information criterion (AIC) score: 47942.0363
+Corrected Akaike information criterion (AICc) score: 47952.4125
+Bayesian information criterion (BIC) score: 48452.0303
+
+Total tree length (sum of branch lengths): 6.1542
+Sum of internal branch lengths: 2.0126 (32.7023% of tree length)
+
+WARNING: 2 near-zero internal branches (<0.0006) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Auxenochlorella_pyrenoidosa' is drawn at root
+
++**Auxenochlorella_pyrenoidosa
+|
+|                                      +--Breviolum_minutum
+|                                   +--|
+|                                   |  +--Freudenthalidium_endolithicum
+|                                +--|
+|                                |  |  +--Effrenium_voratum
+|                                |  +--|
+|                                |     |     +**Symbiodinium_microadriaticum
+|                                |     |  +**|
+|                                |     |  |  +--Symbiodinium_tridacnidarum
+|                                |     +--|
+|                                |        +--Symbiodinium_pilosum
+|                             +--|
+|                             |  +--Polarella_glacialis
+|                          +--|
+|                          |  +--Prorocentrum_cordatum
+|                       +--|
+|                       |  +----Chromera_velia
+|                    +--|
+|                    |  +-----Vitrella_brassicaformis
+|                 +--|
+|                 |  +--Cyanophora_paradoxa
+|              +--|
+|              |  |               +---------------------------Bryopsis_sp
+|              |  |           +---|
+|              |  |           |   |                             +------------Euglena_gracilis
+|              |  |           |   +-----------------------------|
+|              |  |           |                                 +---------------Eutreptiella_sp
+|              |  |        +--|
+|              |  |        |  +---------Spirogyra_pratensis
+|              |  |     +--|
+|              |  |     |  |   +---Nitzschia_inconspicua
+|              |  |     |  +---|
+|              |  |     |      |     +**Saccharina_japonica
+|              |  |     |      |  +**|
+|              |  |     |      |  |  +--Undaria_pinnatifida
+|              |  |     |      +--|
+|              |  |     |         +--Saccharina_sculpera
+|              |  |  +--|
+|              |  |  |  |     +--Cyanidiococcus_yangmingshanensis
+|              |  |  |  |  +--|
+|              |  |  |  |  |  +--Cyanidium_caldarium
+|              |  |  |  +--|
+|              |  |  |     |     +-------------------Galdieria_yellowstonensis
+|              |  |  |     |  +--|
+|              |  |  |     |  |  +--------------Gracilaria_vermiculophylla
+|              |  |  |     +--|
+|              |  |  |        |    +--Porphyra_dioica
+|              |  |  |        +----|
+|              |  |  |             +--Porphyra_linearis
+|              |  +--|
+|              |     |        +--Isochrysis_galbana
+|              |     |     +--|
+|              |     |     |  +--Phaeocystis_globosa
+|              |     |  +--|
+|              |     |  |  +--Prymnesium_parvum
+|              |     +--|
+|              |        +--Rebecca_billardiae
+|           +--|
+|           |  |     +--Mesotaenium_endlicherianum
+|           |  |  +--|
+|           |  |  |  |  +--Penium_margaritaceum
+|           |  |  |  +--|
+|           |  |  |     +--Zygnema_circumcarinatum
+|           |  +--|
+|           |     +--Spirogloea_muscicola
+|        +--|
+|        |  |     +--------Chloromonas_typhlos
+|        |  |  +--|
+|        |  |  |  +--Ulva_compressa
+|        |  +--|
+|        |     +--Scenedesmus_obliquus
+|     +--|
+|     |  |  +--Coccomyxa_elongata
+|     |  +--|
+|     |     +--Tetraselmis_helgolandica
+|  +--|
+|  |  +--Picochlorum_sp_SENEW3
++--|
+|  +**Chlorella_sorokiniana
+|
++**Chlorella_pyrenoidosa
+
+Tree in newick format:
+
+(Auxenochlorella_pyrenoidosa:0.0000019034,(((((((((((((Breviolum_minutum:0.0111673552,Freudenthalidium_endolithicum:0.0052044160):0.0116579300,(Effrenium_voratum:0.0618448874,((Symbiodinium_microadriaticum:0.0000019034,Symbiodinium_tridacnidarum:0.0005917325):0.0000039909,Symbiodinium_pilosum:0.0029656761):0.0126833984):0.0016323076):0.0151278578,Polarella_glacialis:0.0045124956):0.0247477195,Prorocentrum_cordatum:0.0215957515):0.0340536675,Chromera_velia:0.1278547039):0.0134299621,Vitrella_brassicaformis:0.1650840231):0.0974004754,Cyanophora_paradoxa:0.0824009431):0.0156087988,(((((Bryopsis_sp:0.7203944862,(Euglena_gracilis:0.3528819337,Eutreptiella_sp:0.4120750602):0.7767685360):0.1119136171,Spirogyra_pratensis:0.2536520047):0.0473037371,(Nitzschia_inconspicua:0.1140047098,((Saccharina_japonica:0.0000019034,Undaria_pinnatifida:0.0005652069):0.0000051474,Saccharina_sculpera:0.0016889685):0.0810578312):0.1064894055):0.0054832550,((Cyanidiococcus_yangmingshanensis:0.0520763626,Cyanidium_caldarium:0.0909811580):0.0981558845,((Galdieria_yellowstonensis:0.5254593678,Gracilaria_vermiculophylla:0.3811222351):0.0327135251,(Porphyra_dioica:0.0071624456,Porphyra_linearis:0.0050600167):0.1343119996):0.0222524042):0.0311306305):0.0235687140,(((Isochrysis_galbana:0.0316205107,Phaeocystis_globosa:0.0485040005):0.0147274413,Prymnesium_parvum:0.0199813270):0.0417825120,Rebecca_billardiae:0.0783035093):0.0617426372):0.0047587080):0.0391440425,((Mesotaenium_endlicherianum:0.0155973424,(Penium_margaritaceum:0.0538295580,Zygnema_circumcarinatum:0.0106747313):0.0043273510):0.0172933165,Spirogloea_muscicola:0.0120147753):0.0179821563):0.0691746585,((Chloromonas_typhlos:0.2435225554,Ulva_compressa:0.1008194163):0.0053765138,Scenedesmus_obliquus:0.0321738620):0.0087640247):0.0077234770,(Coccomyxa_elongata:0.0251954985,Tetraselmis_helgolandica:0.0470152568):0.0051492302):0.0060767062,Picochlorum_sp_SENEW3:0.0214998476):0.0092337750,Chlorella_sorokiniana:0.0004959650):0.0017932413,Chlorella_pyrenoidosa:0.0000019034);
+
+
+USER TREES
+----------
+
+See au_test.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -23825.48335       0   0.729 +  0.756 +      1 +     0.691 +        1 + 
+  2 -23826.92514  1.4418   0.271 +  0.244 +  0.244 +     0.309 +    0.233 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t au_test.treefile -m "TIM2{0.740951,1.71214,3.72289}+F{0.252389,0.211436,0.273447,0.262729}+R4{0.458324,0.071953,0.305457,0.629865,0.12871,1.94308,0.107509,4.87896}" --length 1779
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s 18S_alignment_trimmed.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s 18S_alignment_trimmed.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Oct 14 23:13:29 2026
+Total CPU time used: 4.74 seconds (0h:0m:4s)
+Total wall-clock time used: 5.48 seconds (0h:0m:5s)
+

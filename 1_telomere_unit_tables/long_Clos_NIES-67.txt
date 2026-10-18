@@ -1,0 +1,11 @@
+# Clos_NIES-67: 80562 reads >= 3000 bp; arrays = >= 4 units T(1-9)AGGG, correct orientation in terminal 1000 bp
+end arrays: 937   interior arrays (both strands, 2 windows/read): 92
+T-length	arrays_with_this_mode	of_which_>=90%_pure	units_at_ends	%_of_end_units	units_in_interiors
+T1	4	1	95	1.9	19
+T2	53	0	674	13.4	63
+T3	840	179	3548	70.6	303
+T4	38	0	632	12.6	57
+T5	2	0	73	1.5	7
+T6	0	0	4	0.1	1
+T7	0	0	1	0.0	0
+end arrays whose mode is not T3 but contain >=1 T3 unit: 92

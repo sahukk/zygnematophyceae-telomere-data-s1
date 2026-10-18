@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+m0                   -           1194 RVT_1                PF00078.33   200   4.4e-12   34.9   0.0   1   2     0.001     0.002    6.6   0.0    63    92   734   763   731   797 0.80 -
+m0                   -           1194 RVT_1                PF00078.33   200   4.4e-12   34.9   0.0   2   2   1.9e-09   3.8e-09   25.3   0.0    74   187   820   952   816   965 0.91 -
+m2                   -           1069 RVT_1                PF00078.33   200   1.2e-11   33.5   0.0   1   2   0.00079    0.0016    7.0   0.0    63    92   574   603   571   659 0.81 -
+m2                   -           1069 RVT_1                PF00078.33   200   1.2e-11   33.5   0.0   2   2   9.9e-07     2e-06   16.5   0.0    74   187   660   827   651   854 0.86 -
+m4                   -           1239 RVT_1                PF00078.33   200   6.1e-11   31.2   0.0   1   3   0.00092    0.0018    6.8   0.0    63    92   751   780   747   836 0.81 -
+m4                   -           1239 RVT_1                PF00078.33   200   6.1e-11   31.2   0.0   2   3   1.4e-05   2.8e-05   12.7   0.0    74   136   837   892   833   899 0.82 -
+m4                   -           1239 RVT_1                PF00078.33   200   6.1e-11   31.2   0.0   3   3   0.00057    0.0011    7.5   0.0   145   187   955   997   939  1024 0.92 -
+m2                   -           1069 TEN_TERT             PF11474.14   156     5e-06   15.5   0.0   1   1   3.2e-06   9.5e-06   14.6   0.0    97   142    58   104    50   114 0.83 -
+m0                   -           1194 TEN_TERT             PF11474.14   156   5.8e-06   15.3   0.0   1   1   3.6e-06   1.1e-05   14.4   0.0    97   142    26    72    18    82 0.83 -
+m2                   -           1069 Telomerase_RBD       PF12009.14   133   6.4e-36  112.2   0.0   1   1   5.1e-36     1e-35  111.5   0.0     1   132   305   445   305   446 0.90 -
+m0                   -           1194 Telomerase_RBD       PF12009.14   133   1.9e-35  110.6   0.0   1   1   1.5e-35   3.1e-35  110.0   0.0     1   132   431   584   431   585 0.89 -
+m4                   -           1239 Telomerase_RBD       PF12009.14   133   3.8e-34  106.4   0.0   1   1     3e-34   6.1e-34  105.8   0.0     1   132   477   620   477   621 0.86 -
+m2                   -           1069 TERT_C               PF21399.3    130   1.9e-21   65.5   0.3   1   1   1.8e-21   3.6e-21   64.6   0.3     2   130   908  1035   907  1035 0.91 -
+m0                   -           1194 TERT_C               PF21399.3    130   2.3e-21   65.2   0.3   1   1   2.1e-21   4.2e-21   64.3   0.3     2   130  1033  1160  1032  1160 0.91 -
+m4                   -           1239 TERT_C               PF21399.3    130   2.3e-21   65.2   0.3   1   1   2.2e-21   4.4e-21   64.3   0.3     2   130  1078  1205  1077  1205 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      data/processed/tert_phase2/hmm/tert_domains.hmm
+# Target file:     data/processed/tert_phase2/runs/Mesotaenium_endlicherianum.models.faa
+# Option settings: hmmsearch --domtblout data/processed/tert_phase2/runs/Mesotaenium_endlicherianum.domtbl -E 1 --domE 1 --cpu 9 data/processed/tert_phase2/hmm/tert_domains.hmm data/processed/tert_phase2/runs/Mesotaenium_endlicherianum.models.faa 
+# Current dir:     /Users/krishnakumarsahu/Desktop/Algal_Telomere_DNA_Study/full_export/algal_telomere_study
+# Date:            Wed Oct  7 12:54:10 2026
+# [ok]

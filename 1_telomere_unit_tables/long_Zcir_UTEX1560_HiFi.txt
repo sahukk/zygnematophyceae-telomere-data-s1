@@ -1,0 +1,13 @@
+# Zcir_UTEX1560_HiFi: 83266 reads >= 3000 bp; arrays = >= 4 units T(1-9)AGGG, correct orientation in terminal 1000 bp
+end arrays: 1142   interior arrays (both strands, 2 windows/read): 782
+T-length	arrays_with_this_mode	of_which_>=90%_pure	units_at_ends	%_of_end_units	units_in_interiors
+T1	12	9	165	1.3	160
+T2	192	129	1261	9.9	1969
+T3	101	54	596	4.7	1095
+T4	16	0	622	4.9	356
+T5	815	352	9599	75.0	2909
+T6	5	0	474	3.7	56
+T7	1	0	48	0.4	4
+T8	0	0	14	0.1	0
+T9	0	0	14	0.1	3
+end arrays whose mode is not T3 but contain >=1 T3 unit: 97

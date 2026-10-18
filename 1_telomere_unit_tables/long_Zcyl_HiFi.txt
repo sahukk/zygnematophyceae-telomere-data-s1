@@ -1,0 +1,13 @@
+# Zcyl_HiFi: 79964 reads >= 3000 bp; arrays = >= 4 units T(1-9)AGGG, correct orientation in terminal 1000 bp
+end arrays: 292   interior arrays (both strands, 2 windows/read): 28
+T-length	arrays_with_this_mode	of_which_>=90%_pure	units_at_ends	%_of_end_units	units_in_interiors
+T1	0	0	7	0.2	5
+T2	6	4	40	1.2	73
+T3	1	0	16	0.5	4
+T4	0	0	22	0.6	4
+T5	8	2	230	6.7	6
+T6	251	23	2378	69.0	38
+T7	22	0	606	17.6	8
+T8	3	0	111	3.2	0
+T9	1	0	37	1.1	0
+end arrays whose mode is not T3 but contain >=1 T3 unit: 10

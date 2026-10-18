@@ -1,0 +1,11 @@
+# Zcir_UTEX1559_Illumina: 412,619 reads; 714 with an array of >=4 T(1-9)AGGG units (1730 per million)
+T-length	reads_with_this_mode	per_million_reads	of_which_>=90%_pure	%_of_all_units
+T1	3	7	1	1.5
+T2	134	325	103	18.5
+T3	88	213	31	7.3
+T4	10	24	1	2.2
+T5	476	1154	342	69.0
+T6	2	5	0	1.2
+T7	1	2	0	0.2
+T8	0	0	0	0.0
+T9	0	0	0	0.0

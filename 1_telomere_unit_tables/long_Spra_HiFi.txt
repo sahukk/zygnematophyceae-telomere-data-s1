@@ -1,0 +1,8 @@
+# Spra_HiFi: 99380 reads >= 3000 bp; arrays = >= 4 units T(1-9)AGGG, correct orientation in terminal 1000 bp
+end arrays: 397   interior arrays (both strands, 2 windows/read): 501
+T-length	arrays_with_this_mode	of_which_>=90%_pure	units_at_ends	%_of_end_units	units_in_interiors
+T1	1	1	115	1.9	162
+T2	383	291	5719	93.2	6641
+T3	13	5	304	5.0	45
+T4	0	0	1	0.0	0
+end arrays whose mode is not T3 but contain >=1 T3 unit: 36

@@ -1,0 +1,33 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+BQMB01001323.1       -         iter2b               -          cm        1      242   301108   301013      -    no    1 0.64   0.0   21.2      0.13 ?   Closterium sp. NIES-67 DNA, Cpp_p_000010Fqp, whole genome shotgun sequence
+BQMB01000777.1       -         iter2b               -          cm        1      242    56317    56522      +    no    1 0.52   0.0   20.7      0.19 ?   Closterium sp. NIES-67 DNA, Cpp_p_000428Fqp, whole genome shotgun sequence
+BQMB01001399.1       -         iter2b               -          cm        1      242   479296   479494      +    no    1 0.54   0.0   18.6      0.81 ?   Closterium sp. NIES-67 DNA, Cpp_p_000106Fqp, whole genome shotgun sequence
+BQMB01000799.1       -         iter2b               -          cm        1      242    41130    41058      -    no    1 0.55   0.0   17.7       1.6 ?   Closterium sp. NIES-67 DNA, Cpp_p_000130Fqp, whole genome shotgun sequence
+BQMB01000299.1       -         iter2b               -          cm        1      242   517324   517399      +    no    1 0.45   0.0   17.6       1.6 ?   Closterium sp. NIES-67 DNA, Cpp_p_000150Fqp, whole genome shotgun sequence
+BQMB01001128.1       -         iter2b               -          cm        1      242     6207     6282      +    no    1 0.45   0.0   17.6       1.6 ?   Closterium sp. NIES-67 DNA, Cpp_p_000513Fqp, whole genome shotgun sequence
+BQMB01001864.1       -         iter2b               -          cm        1      242    94711    94416      -    no    1 0.54   0.0   17.2         2 ?   Closterium sp. NIES-67 DNA, Cpp_p_000285Fqp, whole genome shotgun sequence
+BQMB01000124.1       -         iter2b               -          cm        1      242    76128    76359      +    no    1 0.63   0.4   17.0       2.4 ?   Closterium sp. NIES-67 DNA, Cpp_p_000157Fqp, whole genome shotgun sequence
+BQMB01001333.1       -         iter2b               -          cm        1      242    28155    27924      -    no    1 0.63   0.4   17.0       2.4 ?   Closterium sp. NIES-67 DNA, Cpp_p_001000Fqp, whole genome shotgun sequence
+BQMB01002291.1       -         iter2b               -          cm        1      242    25455    25686      +    no    1 0.63   0.4   17.0       2.4 ?   Closterium sp. NIES-67 DNA, Cpp_a_000157F_004_01qp, whole genome shotgun sequence
+BQMB01002150.1       -         iter2b               -          cm        1      242   451429   451498      +    no    1 0.46   0.0   17.0       2.4 ?   Closterium sp. NIES-67 DNA, Cpp_p_000075Fqp, whole genome shotgun sequence
+BQMB01001523.1       -         iter2b               -          cm        1      242   895744   895848      +    no    1 0.44   0.0   16.8       2.9 ?   Closterium sp. NIES-67 DNA, Cpp_p_000002Fqp, whole genome shotgun sequence
+BQMB01002201.1       -         iter2b               -          cm        1      242   144288   144367      +    no    1 0.54   0.0   16.2       4.1 ?   Closterium sp. NIES-67 DNA, Cpp_p_000370Fqp, whole genome shotgun sequence
+BQMB01001098.1       -         iter2b               -          cm        1      242   931194   931015      -    no    1 0.51   0.0   15.6       6.2 ?   Closterium sp. NIES-67 DNA, Cpp_p_000019Fqp, whole genome shotgun sequence
+BQMB01001374.1       -         iter2b               -          cm        1      242   285187   285283      +    no    1 0.47   0.0   15.5       6.6 ?   Closterium sp. NIES-67 DNA, Cpp_p_000107Fqp, whole genome shotgun sequence
+BQMB01001406.1       -         iter2b               -          cm        1      242    67581    67800      +    no    1 0.51   0.0   15.4       7.3 ?   Closterium sp. NIES-67 DNA, Cpp_p_000799Fqp, whole genome shotgun sequence
+BQMB01001523.1       -         iter2b               -          cm        1      242   809918   810126      +    no    1 0.44   0.0   15.3       7.6 ?   Closterium sp. NIES-67 DNA, Cpp_p_000002Fqp, whole genome shotgun sequence
+BQMB01001111.1       -         iter2b               -          cm        1      242     1597     1669      +    no    1 0.59   0.0   15.2       8.4 ?   Closterium sp. NIES-67 DNA, Cpp_p_001306Fqp, whole genome shotgun sequence
+BQMB01001373.1       -         iter2b               -          cm        1      242  1653667  1653739      +    no    1 0.59   0.0   15.2       8.4 ?   Closterium sp. NIES-67 DNA, Cpp_p_000008Fqp, whole genome shotgun sequence
+BQMB01001423.1       -         iter2b               -          cm        1      242   644027   644108      +    no    1 0.56   0.0   15.0       9.7 ?   Closterium sp. NIES-67 DNA, Cpp_p_000006Fqp, whole genome shotgun sequence
+BQMB01002095.1       -         iter2b               -          cm        1      242    46413    46494      +    no    1 0.56   0.0   15.0       9.7 ?   Closterium sp. NIES-67 DNA, Cpp_a_000006F_005_01qp, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.5 (Sep 2023)
+# Pipeline mode:   SEARCH
+# Query file:      iter2b.cm
+# Target file:     ../../../raw/ncbi/GCA_027943415.1_dir/ncbi_dataset/data/GCA_027943415.1/GCA_027943415.1_CLOP_1.0_genomic.fna
+# Option settings: /opt/homebrew/Caskroom/miniconda/base/envs/tr_infernal/bin/cmsearch --tblout Clos.tbl -E 10 --cpu 10 iter2b.cm ../../../raw/ncbi/GCA_027943415.1_dir/ncbi_dataset/data/GCA_027943415.1/GCA_027943415.1_CLOP_1.0_genomic.fna 
+# Current dir:     /Users/krishnakumarsahu/Desktop/Algal_Telomere_DNA_Study/full_export/algal_telomere_study/data/processed/tr_search/iter2b
+# Date:            Wed Oct 14 22:47:14 2026
+# [ok]

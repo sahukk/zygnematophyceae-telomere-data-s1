@@ -1,0 +1,8 @@
+# Mend_Illumina: 3,000,000 reads; 4,574 with an array of >=4 T(1-9)AGGG units (1525 per million)
+T-length	reads_with_this_mode	per_million_reads	of_which_>=90%_pure	%_of_all_units
+T1	13	4	13	1.6
+T2	18	6	10	1.7
+T3	4518	1506	3922	95.4
+T4	25	8	5	1.2
+T5	0	0	0	0.0
+T6	0	0	0	0.0

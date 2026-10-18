@@ -1,0 +1,38 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+WELA01010214.1       -         iter2b               -          cm        1      242   818526   818792      +    no    1 0.58   0.0   84.8     1e-20 !   Mesotaenium endlicherianum strain SAG 12.97 S58, whole genome shotgun sequence
+WELA01008001.1       -         iter2b               -          cm        1      242   557973   557731      -    no    1 0.56   0.3   21.9     0.042 ?   Mesotaenium endlicherianum strain SAG 12.97 S31, whole genome shotgun sequence
+WELA01012345.1       -         iter2b               -          cm        1      242   606130   606204      +    no    1 0.47   0.0   20.9     0.084 ?   Mesotaenium endlicherianum strain SAG 12.97 S191, whole genome shotgun sequence
+WELA01003606.1       -         iter2b               -          cm        1      242   487666   487741      +    no    1 0.76   1.3   20.7     0.092 ?   Mesotaenium endlicherianum strain SAG 12.97 S73, whole genome shotgun sequence
+WELA01012345.1       -         iter2b               -          cm        1      242   899308   899215      -    no    1 0.52   0.0   20.3      0.12 ?   Mesotaenium endlicherianum strain SAG 12.97 S191, whole genome shotgun sequence
+WELA01000694.1       -         iter2b               -          cm        1      242   260625   260549      -    no    1 0.55   0.0   19.3      0.24 ?   Mesotaenium endlicherianum strain SAG 12.97 S157, whole genome shotgun sequence
+WELA01001240.1       -         iter2b               -          cm        1      242   140760   140572      -    no    1 0.65   0.1   17.5      0.85 ?   Mesotaenium endlicherianum strain SAG 12.97 S471, whole genome shotgun sequence
+WELA01000853.1       -         iter2b               -          cm        1      242   224056   224179      +    no    1 0.61   0.0   17.4      0.89 ?   Mesotaenium endlicherianum strain SAG 12.97 S428, whole genome shotgun sequence
+WELA01002449.1       -         iter2b               -          cm        1      242   147447   147694      +    no    1 0.59   0.0   17.1       1.1 ?   Mesotaenium endlicherianum strain SAG 12.97 S351, whole genome shotgun sequence
+WELA01003305.1       -         iter2b               -          cm        1      242   339572   339485      -    no    1 0.52   0.0   16.7       1.4 ?   Mesotaenium endlicherianum strain SAG 12.97 S76, whole genome shotgun sequence
+WELA01001426.1       -         iter2b               -          cm        1      242   228059   227872      -    no    1 0.60   0.0   16.6       1.6 ?   Mesotaenium endlicherianum strain SAG 12.97 S27, whole genome shotgun sequence
+WELA01013572.1       -         iter2b               -          cm       69      147   352996   353082      +    no    1 0.41   0.0   16.1       2.1 ?   Mesotaenium endlicherianum strain SAG 12.97 S124, whole genome shotgun sequence
+WELA01010214.1       -         iter2b               -          cm        1      242   596166   596473      +    no    1 0.59   0.0   16.0       2.2 ?   Mesotaenium endlicherianum strain SAG 12.97 S58, whole genome shotgun sequence
+WELA01012345.1       -         iter2b               -          cm        1      242   493684   493751      +    no    1 0.56   0.0   15.9       2.4 ?   Mesotaenium endlicherianum strain SAG 12.97 S191, whole genome shotgun sequence
+WELA01000853.1       -         iter2b               -          cm        1      242   188821   188757      -    no    1 0.57   0.0   15.6       2.9 ?   Mesotaenium endlicherianum strain SAG 12.97 S428, whole genome shotgun sequence
+WELA01007268.1       -         iter2b               -          cm        1      242   603544   603477      -    no    1 0.71   0.3   15.5       3.2 ?   Mesotaenium endlicherianum strain SAG 12.97 S109, whole genome shotgun sequence
+WELA01006175.1       -         iter2b               -          cm        1      242   361390   361330      -    no    1 0.66   0.1   14.9       4.9 ?   Mesotaenium endlicherianum strain SAG 12.97 S53, whole genome shotgun sequence
+WELA01000805.1       -         iter2b               -          cm        1      242   340579   340664      +    no    1 0.65   0.0   14.8       5.3 ?   Mesotaenium endlicherianum strain SAG 12.97 S96, whole genome shotgun sequence
+WELA01008917.1       -         iter2b               -          cm        1      242   203180   203253      +    no    1 0.54   0.0   14.7       5.7 ?   Mesotaenium endlicherianum strain SAG 12.97 S219, whole genome shotgun sequence
+WELA01003305.1       -         iter2b               -          cm        1      242   414503   414587      +    no    1 0.53   0.0   14.6       5.9 ?   Mesotaenium endlicherianum strain SAG 12.97 S76, whole genome shotgun sequence
+WELA01013857.1       -         iter2b               -          cm        1      242   288468   288532      +    no    1 0.48   0.0   14.5       6.5 ?   Mesotaenium endlicherianum strain SAG 12.97 S18, whole genome shotgun sequence
+WELA01002918.1       -         iter2b               -          cm        1      242   144863   145064      +    no    1 0.56   0.0   14.4       6.6 ?   Mesotaenium endlicherianum strain SAG 12.97 S478, whole genome shotgun sequence
+WELA01012282.1       -         iter2b               -          cm        1      242   258256   258013      -    no    1 0.62   0.6   14.4         7 ?   Mesotaenium endlicherianum strain SAG 12.97 S9, whole genome shotgun sequence
+WELA01002777.1       -         iter2b               -          cm        1      242    74288    74359      +    no    1 0.56   0.0   14.3       7.3 ?   Mesotaenium endlicherianum strain SAG 12.97 S269, whole genome shotgun sequence
+WELA01003747.1       -         iter2b               -          cm        1      242   255246   255305      +    no    1 0.45   0.0   13.9       9.3 ?   Mesotaenium endlicherianum strain SAG 12.97 S392, whole genome shotgun sequence
+WELA01005791.1       -         iter2b               -          cm        1      242   544470   544211      -    no    1 0.64   2.4   13.9       9.5 ?   Mesotaenium endlicherianum strain SAG 12.97 S162, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.5 (Sep 2023)
+# Pipeline mode:   SEARCH
+# Query file:      iter2b.cm
+# Target file:     ../../../raw/ncbi/mesotaenium_endlicherianum/ncbi_dataset/data/GCA_009602735.1/GCA_009602735.1_ASM960273v1_genomic.fna
+# Option settings: /opt/homebrew/Caskroom/miniconda/base/envs/tr_infernal/bin/cmsearch --tblout Mend.tbl -E 10 --cpu 10 iter2b.cm ../../../raw/ncbi/mesotaenium_endlicherianum/ncbi_dataset/data/GCA_009602735.1/GCA_009602735.1_ASM960273v1_genomic.fna 
+# Current dir:     /Users/krishnakumarsahu/Desktop/Algal_Telomere_DNA_Study/full_export/algal_telomere_study/data/processed/tr_search/iter2b
+# Date:            Wed Oct 14 22:45:56 2026
+# [ok]

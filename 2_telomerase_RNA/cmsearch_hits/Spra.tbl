@@ -1,0 +1,14 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+scaffold_18          -         iter2b               -          cm      156      232   907489   907431      -    no    1 0.51   0.0   14.1       2.7 ?   -
+scaffold_8           -         iter2b               -          cm        1      242  1699768  1699992      +    no    1 0.45   0.0   12.6       7.3 ?   -
+#
+# Program:         cmsearch
+# Version:         1.1.5 (Sep 2023)
+# Pipeline mode:   SEARCH
+# Query file:      iter2b.cm
+# Target file:     ../../../raw/phycocosm/Spipra1_AssemblyScaffolds_2024-03-24.fasta
+# Option settings: /opt/homebrew/Caskroom/miniconda/base/envs/tr_infernal/bin/cmsearch --tblout Spra.tbl -E 10 --cpu 10 iter2b.cm ../../../raw/phycocosm/Spipra1_AssemblyScaffolds_2024-03-24.fasta 
+# Current dir:     /Users/krishnakumarsahu/Desktop/Algal_Telomere_DNA_Study/full_export/algal_telomere_study/data/processed/tr_search/iter2b
+# Date:            Wed Oct 14 22:46:27 2026
+# [ok]

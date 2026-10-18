@@ -1,0 +1,13 @@
+# Clos_Yama58-4: 68586 reads >= 3000 bp; arrays = >= 4 units T(1-9)AGGG, correct orientation in terminal 1000 bp
+end arrays: 1155   interior arrays (both strands, 2 windows/read): 245
+T-length	arrays_with_this_mode	of_which_>=90%_pure	units_at_ends	%_of_end_units	units_in_interiors
+T1	4	0	158	2.7	32
+T2	129	1	1146	19.4	227
+T3	966	130	3710	62.9	738
+T4	39	0	545	9.2	139
+T5	6	0	182	3.1	52
+T6	8	0	109	1.8	26
+T7	2	0	25	0.4	10
+T8	1	0	19	0.3	6
+T9	0	0	8	0.1	5
+end arrays whose mode is not T3 but contain >=1 T3 unit: 171
