@@ -1,0 +1,9 @@
+{
+  "title": "Data S1: telomere repeat diversity in Zygnematophyceae, the closest algal relatives of land plants",
+  "upload_type": "dataset",
+  "description": "Supporting data and analysis scripts for K. K. Sahu, 'Telomere repeat diversity in Zygnematophyceae, the closest algal relatives of land plants: evidence from long and short reads' (submitted to Journal of Phycology). Per-strain telomeric unit tables, telomerase RNA sequences, covariance model and alignments, TERT protein models, 18S rRNA alignment and trees, and analysis scripts. All input data are public; accessions are listed in the article's Table 1, Table S1 and Table S2.",
+  "creators": [{"name": "Sahu, Krishna Kumar"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["telomere", "telomerase RNA", "TERT", "Zygnematophyceae", "Zygnema", "Streptophyta", "TTTAGGG"]
+}
